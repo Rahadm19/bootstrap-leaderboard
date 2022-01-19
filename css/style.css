@@ -1,0 +1,19 @@
+  body{
+     background-color: #F3F1FF;
+}
+ hr{
+     width: 90%;
+      height: 2px solid red;
+     display: flex;
+     justify-content: center;
+}
+a{
+ text-decoration: none;
+}
+.orange{
+     color: orange;
+}
+ .button-font{
+ font-weight: 900;
+}
+ 
